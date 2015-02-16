@@ -4,5 +4,6 @@
 	$_SESSION =array();
 	session_destroy();
 	header("Location:login.php");
+	//denemem eklentisi
 
 ?>
