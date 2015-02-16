@@ -1,6 +1,7 @@
 <?php
 	$baglan=mysqli_connect("localhost","root","","odev");
 	if($baglan){
+		//burası üste denememe eklenti
 		//echo "bağlandı";
 		//denemememememm denememem
 	}
