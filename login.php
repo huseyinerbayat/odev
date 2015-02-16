@@ -2,6 +2,7 @@
 	$baglan=mysqli_connect("localhost","root","","odev");
 	if($baglan){
 		//echo "bağlandı";
+		echo "denemmememmememem";
 	}
 	
 	session_start();
